@@ -1,8 +1,8 @@
-# ONE_SISTEM
-Aplikasi Surat Jalan dan Slip Timbangan
-
 # 🚛 Aplikasi Surat Jalan & Slip Penimbangan
-Aplikasi ini dapat digunakan untuk mencatat dan mengelola **Surat Jalan** dan **Slip Penimbangan** dengan fitur cetak PDF, laporan harian otomatis, dan notifikasi Telegram.
+
+Aplikasi berbasis [Streamlit](https://streamlit.io/) untuk mencatat dan mengelola **Surat Jalan** dan **Slip Penimbangan** dengan fitur cetak PDF, laporan harian otomatis, dan notifikasi Telegram.
+
+---
 
 ## ✨ Fitur Utama
 
@@ -13,7 +13,11 @@ Aplikasi ini dapat digunakan untuk mencatat dan mengelola **Surat Jalan** dan **
 - 📊 Laporan harian otomatis/manual via Telegram
 - 🔍 Pencarian riwayat berdasarkan Nomor Polisi / DO
 
+---
+
 ## 📦 Struktur Proyek
+
+.
 ├── app.py
 ├── utils/
 │   └── pdf_generator.py
